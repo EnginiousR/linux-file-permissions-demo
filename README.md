@@ -35,16 +35,16 @@ print("Permissions changed to rwxrwxr-x")
 python3 change_perms.py
 
 ## Project Structure
-نسخ الكود
-├── permissions_flowchart_fixed.png   # Flowchart explaining file permissions
-├── change_perms.py                    # Python script to change permissions
-├── chmod_demo.png                     # Screenshot of the chmod process
+
+# permissions_flowchart_fixed.png   # Flowchart explaining file permissions
+# change_perms.py                    # Python script to change permissions
+# chmod_demo.png                     # Screenshot of the chmod process
 
 ### Key Learning Points
-File permissions format: rwxrwxr-x
-r → Read
-w → Write
-x → Execute
-User groups: Owner, Group, Others
-Changing permissions in Python: Using os.chmod()
-Octal representation: 0o775 → rwxrwxr-x
+# File permissions format: rwxrwxr-x
+# r → Read
+# w → Write
+# x → Execute
+# User groups: Owner, Group, Others
+# Changing permissions in Python: Using os.chmod()
+# Octal representation: 0o775 → rwxrwxr-x
