@@ -40,7 +40,6 @@ python3 change_perms.py
 ├── change_perms.py                    # Python script to change permissions
 ├── chmod_demo.png                     # Screenshot of the chmod process
 
-
 ### Key Learning Points
 File permissions format: rwxrwxr-x
 r → Read
